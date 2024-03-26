@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">project2_p20191</string>
+    <string name="log_in">Log-in</string>
+    <string name="create_account">Create Account</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="chatroom_app">Chatroom App</string>
+    <string name="chatroom">Chatroom</string>
+    <string name="type_a_message">Type a message...</string>
+    <string name="hello">Hello</string>
+    <string name="log_out">Log out</string>
+    <string name="a">.</string>
+    <string name="chat_with_user">Chat with user:</string>
+    <string name="remove_nmessages">Remove\nMessages</string>
+</resources>

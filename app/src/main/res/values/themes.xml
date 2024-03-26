@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Project2_p20191" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/blue1</item>
+        <!--<item name="android:navigationBarColor">@color/blue1</item>-->
+    </style>
+    <style name="Theme.Project2_p20191" parent="Base.Theme.Project2_p20191" />
+
+    <!--kyklikes gwnies-->
+    <style name="custom2" parent="Widget.MaterialComponents.CardView">
+        <item name="shapeAppearanceOverlay">@style/custom2_cardview</item>
+    </style>
+    <style name="custom2_cardview" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopRight">40dp</item>
+        <item name="cornerSizeTopLeft">40dp</item>
+        <item name="cornerSizeBottomRight">0dp</item>
+        <item name="cornerSizeBottomLeft">0dp</item>
+    </style>
+
+</resources>
